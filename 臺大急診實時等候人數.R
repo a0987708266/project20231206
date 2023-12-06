@@ -65,6 +65,7 @@ NTU_info = function () {
 
 NTU_info()
 
+
 library(rvest)
 
 URL = "https://reg.ntuh.gov.tw/EmgInfoBoard/NTUHEmgInfo.aspx"
